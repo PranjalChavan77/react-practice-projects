@@ -1,22 +1,24 @@
-📘 Quotes Generator (React)
+📘 Quotes Generator (React + Tailwind)
 
-A minimal and colorful Random Quotes Generator built with React and Tailwind CSS.
-Each time you generate a new quote, the background gradient changes, making the UI feel dynamic and fresh.
+A minimal and colorful Random Quotes Generator built using React and Tailwind CSS.
+Each time the user fetches a new quote, the background gradient changes, creating a refreshing dynamic UI.
+Includes a clean glassmorphism design with smooth animations and a custom API-fetching hook.
 
 🚀 Features
-Fetches random quotes from DummyJSON API
-Smooth gradient background rotation
-Clean UI with Tailwind CSS
-Custom React Hook for fetching quotes
-Loading state + error handling
-“New Quote” button to refresh both quote & background
+📝 Fetches random quotes (DummyJSON API)
+🎨 Animated gradient background transitions
+🧊 Glassmorphism quote card for modern UI
+⚛️ Custom Hook (useQuotes) for API logic
+🔄 “New Quote” refresh button
+🕒 Loading state
+❗ Error handling
+⭐ Quote actions (copy, like, favourite)
+🔔 Toast notifications
 
-🧠 How It Works
-Uses a custom hook
-Fetches a random quote from the API
-Home page manages gradient transitions
-QuoteCard displays the quote, author, and actions
-🎨 Highlights
-Soft glassmorphism card design
-Vibrant animated gradients
-Simple and responsive layout
+🛠️ Tech Stack
+React
+Tailwind CSS
+JavaScript (ES6+)
+DummyJSON Quotes API
+React-Toastify
+Vite
