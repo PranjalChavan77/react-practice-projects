@@ -1,5 +1,6 @@
 # 📝 Quotes Generator (React + DummyJSON API)
 
+<<<<<<< HEAD
 A modern and colorful Quotes Generator built using React, Tailwind CSS, and the DummyJSON Quotes API.
 
 The application fetches random inspirational quotes and displays them inside a clean glassmorphism-inspired card. Every time a new quote is generated, the background transitions to a different gradient, creating a fresh and engaging user experience.
@@ -78,3 +79,33 @@ Built as a learning project to practice API integration, custom React hooks, com
 - Smooth user interactions
 - Modern typography and spacing
 
+=======
+A minimal and colorful Random Quotes Generator built with React and Tailwind CSS.  
+Each time you fetch a new quote, the background gradient changes, creating a smooth and dynamic experience.  
+Built as a learning project to practice API integration, custom React hooks, UI animation, and component-based structure.
+
+---
+
+## 🚀 Features
+
+- 🔄 Fetches random quotes from **DummyJSON Quotes API**  
+- 🎨 Animated gradient background change on every new quote  
+- 📦 Custom React Hook for fetching quotes  
+- 🧊 Soft glassmorphism quote card design  
+- 📋 Loading & Error handling states  
+- 🔘 “New Quote” button to refresh both quote + background  
+- 📱 Fully responsive layout  
+
+---
+
+## 🛠️ Tech Stack
+
+- React  
+- JavaScript  
+- **DummyJSON Quotes API**   
+- TailwindCSS  
+- Custom React Hooks  
+- Vite  
+
+---
+>>>>>>> 4d5a62dabbcc0afca49ac3608aefd592fe2e8900
